@@ -31,3 +31,4 @@ Ou diretamente pelo IntelliJ, clicando em cada teste na classe FilterTest.
 - Validação do caso base proposto
 
 
+# -kotlin-hierarchy-filter
